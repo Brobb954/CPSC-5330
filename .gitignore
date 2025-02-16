@@ -1,2 +1,6 @@
 .DS_Store
 keyboard.html
+*.xcworkspace
+!default.xcworkspace
+*.xcuserdata
+
