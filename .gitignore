@@ -2,5 +2,6 @@
 keyboard.html
 *.xcworkspace
 !default.xcworkspace
+*.xcuserdatad
 *.xcuserdata
 
